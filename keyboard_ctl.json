@@ -1,0 +1,10 @@
+{
+    "current": {
+        "xyz": 0.01,
+        "quoternion1": 0.05,
+        "quoternion2": 0.05,
+        "quoternion3": 0.03,
+        "quoternion4": 0.03,
+        "gripper": 0.1
+    }
+}
